@@ -13,4 +13,5 @@ public class Main {
 
         Math.acos(2.25);
         Math.random();
+        Math.random();
     }}
