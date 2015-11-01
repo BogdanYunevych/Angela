@@ -10,5 +10,6 @@ public class Main {
         ///s
             //dfshjjjjjjjjjjjjjjjj
             //sssssssssssssssssssss
-    }
-}
+
+        Math.acos(2.25);
+    }}
