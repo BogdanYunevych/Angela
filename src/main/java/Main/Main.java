@@ -12,4 +12,5 @@ public class Main {
             //sssssssssssssssssssss
 
         Math.acos(2.25);
+        Math.random();
     }}
