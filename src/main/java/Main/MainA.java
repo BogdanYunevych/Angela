@@ -1,9 +1,11 @@
 package Main;
 
+import java.util.GregorianCalendar;
+
 /**
  * Created by Bogdan on 31.10.2015.
  */
-public class Main {
+public class MainA {
     public static void main(String[] args) {
     //ssssssssssssss
         //aaaaaaaaaaaassssssssssssss
@@ -11,6 +13,7 @@ public class Main {
             //dfshjjjjjjjjjjjjjjjj
             //sssssssssssssssssssss
 
-        Math.acos(2.25);
-        Math.random();
+
+        GregorianCalendar calend = new GregorianCalendar();
+        System.out.println(calend.getTime());
     }}
